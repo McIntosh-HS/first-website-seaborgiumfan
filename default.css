@@ -1,0 +1,38 @@
+body {
+    background-color: rgba(229,229,229, 225);
+}
+
+nav {
+    background-color: rgba(131,57,47,255);
+
+}
+
+ul {
+    background-color: rgba(131,57,47,255);
+    list-style-type: none;
+    margin: 0;
+}
+
+li {
+    float: left;
+}
+
+li a{
+    background-color: rgba(131,57,47,255);
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
+
+img.logo {
+    display: block
+    width: 200px
+    margin:20px
+}
+
+{
+
+}
